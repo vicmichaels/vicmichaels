@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vicmichaels
 - 👀 I’m interested in Digital Sound Processing
 - 🌱 I’m currently learning UNIX/C
-- 💞️ I’m looking to collaborate on Automotive Engine Active Sound Design development
+- 💞️ I’m looking to collaborate on Automotive Engine Active Sound Design R&D project
 - 📫 How to reach me vic.michaels.official@gmail.com
 
 <!---
